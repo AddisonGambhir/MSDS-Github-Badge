@@ -1,2 +1,3 @@
 # MSDS-Github-Badge
-## Welcome to my github badge repository.
+## Welcome to my GitHub badge repository.
+### 
